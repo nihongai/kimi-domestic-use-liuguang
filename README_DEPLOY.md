@@ -14,4 +14,4 @@
 
 模板：`site_v2.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-kimi-domestic-use&utm_medium=referral&utm_campaign=kimi-domestic-use`
-最后更新：2026年07月29日
+最后更新：2026年08月01日
